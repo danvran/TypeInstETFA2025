@@ -1,0 +1,1 @@
+inductance_T1 = 7.0;

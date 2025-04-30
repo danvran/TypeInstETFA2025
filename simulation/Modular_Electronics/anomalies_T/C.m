@@ -1,0 +1,1 @@
+capacitance_T1 = 0.6;

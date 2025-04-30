@@ -1,0 +1,1 @@
+resistance_T1 = 9.0;
